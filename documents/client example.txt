@@ -1,0 +1,16 @@
+Client ID: CL-1001
+Dog: Max
+Breed: Labrador Retriever
+Age: 8
+Sex: Male
+
+Condition: Diabetes mellitus
+Medication: Insulin twice daily
+Food restrictions: Low-sugar diet; no high-sugar treats
+
+Upcoming appointment: October 8, 2026 at 9:30 AM
+Reason: Diabetes follow-up and blood glucose evaluation
+
+Notes:
+Owner reports that Max has been drinking more water than usual.
+Blood glucose should be checked during the appointment.
