@@ -46,8 +46,6 @@ while True:
         - If the question cannot be answered using the provided context, say:
           "I can only answer questions related to the provided documents."
         - Do not use outside knowledge to answer the question.
-        - Do not mention, identify, or provide the names of the authors of the documents.
-        - Keep your answer to a maximum of 5 sentences.
         Context:
         {context}
         Question:
