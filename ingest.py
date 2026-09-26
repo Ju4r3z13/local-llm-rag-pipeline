@@ -2,22 +2,20 @@ import os
 import chromadb
 from ollama import Client
 
-# Configuration
-
 DOCUMENTS_DIR = "./documents"
 CHROMA_DIR = "./chroma_db"
 EMBEDDING_MODEL = "qwen3-embedding:0.6b"
 
 # Connect to Ollama and ChromaDB
-
 ollama = Client(host="http://localhost:11434")
 chroma = chromadb.PersistentClient(path=CHROMA_DIR)
 
-#Read and process documents
-
+# Create or open collection
 collection = chroma.get_or_create_collection(
     name="workshop_documents"
 )
+
+# Read and process documents
 document_files = [
     file for file in os.listdir(DOCUMENTS_DIR)
     if file.endswith(".txt")
@@ -31,6 +29,7 @@ for filename in document_files:
     print(f"\nProcessing: {filename}")
     with open(filepath, "r", encoding="utf-8") as file:
         text = file.read()
+        
     # Split document into chunks
     chunk_size = 1000
     chunks = [
@@ -38,6 +37,7 @@ for filename in document_files:
         for i in range(0, len(text), chunk_size)
     ]
     print(f"Created {len(chunks)} chunks.")
+
     # Embed and store each chunk
     for i, chunk in enumerate(chunks):
         response = ollama.embed(
@@ -54,5 +54,4 @@ for filename in document_files:
                 "chunk": i
             }]
         )
-
-print("\nAll documents successfully added to ChromaDB!")
+print("\nAll documents successfully added to ChromaDB.\n")
