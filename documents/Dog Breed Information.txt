@@ -1,0 +1,110 @@
+General reference information about dog breeds represented in the
+fictional veterinary client dataset.
+
+--------------------------------------------------
+LABRADOR RETRIEVER
+--------------------------------------------------
+
+The Labrador Retriever is a medium-to-large dog breed known for its
+friendly temperament, intelligence, and high activity level. Labrador
+Retrievers are commonly kept as family companions and working dogs.
+
+Typical adult weight can range from approximately 55 to 80 pounds,
+although individual dogs can vary considerably.
+
+Labrador Retrievers generally benefit from regular physical activity and
+mental stimulation. Their food intake should be monitored because some
+individuals are prone to weight gain.
+
+Common health concerns can include obesity, hip and elbow problems, and
+certain inherited conditions. Regular veterinary examinations can help
+identify health problems early.
+
+--------------------------------------------------
+FRENCH BULLDOG
+--------------------------------------------------
+
+The French Bulldog is a small companion breed recognized for its compact
+body, short muzzle, and distinctive upright ears. French Bulldogs are
+generally affectionate and adaptable but can be prone to certain
+respiratory and skin-related problems.
+
+Because of their short muzzle, French Bulldogs may have difficulty
+tolerating excessive heat or strenuous exercise. Owners should monitor
+them carefully during hot weather.
+
+Skin allergies and irritation can occur in some French Bulldogs.
+Veterinary evaluation may be appropriate when persistent itching,
+redness, ear problems, or other skin symptoms occur.
+
+--------------------------------------------------
+GERMAN SHEPHERD
+--------------------------------------------------
+
+The German Shepherd is a medium-to-large working breed known for its
+intelligence, trainability, and athletic ability. German Shepherds are
+often used as working, service, search-and-rescue, and companion dogs.
+
+They generally benefit from regular physical activity and mental
+stimulation.
+
+German Shepherds can be susceptible to orthopedic conditions involving
+the hips and elbows. Maintaining an appropriate body weight can help
+reduce stress on the joints.
+
+Older German Shepherds may require additional monitoring for mobility
+changes, arthritis, and other age-related conditions.
+
+--------------------------------------------------
+BEAGLE
+--------------------------------------------------
+
+The Beagle is a small-to-medium hound breed known for its strong sense
+of smell, curiosity, and energetic personality.
+
+Beagles generally benefit from regular exercise and mental stimulation.
+Their strong food motivation can make portion control important for
+maintaining a healthy body weight.
+
+Some Beagles may be prone to obesity if their food intake is not
+carefully monitored.
+
+Regular veterinary examinations and appropriate nutrition can help
+maintain a healthy weight and identify health concerns.
+
+--------------------------------------------------
+BORDER COLLIE
+--------------------------------------------------
+
+The Border Collie is a medium-sized working breed known for its
+intelligence, energy, and ability to learn complex tasks.
+
+Border Collies generally require regular physical activity as well as
+mental stimulation. Without sufficient activity, some individuals may
+become bored or develop unwanted behaviors.
+
+Their nutritional needs depend on factors such as age, activity level,
+body condition, and overall health.
+
+Regular veterinary care is important for monitoring general health,
+weight, mobility, and other conditions that may develop over time.
+
+--------------------------------------------------
+GENERAL BREED INFORMATION
+--------------------------------------------------
+
+Breed characteristics can provide useful background information, but
+individual dogs can differ significantly from typical breed traits.
+
+A dog's breed does not determine its specific medical condition,
+medication requirements, food restrictions, or treatment plan.
+
+Veterinary decisions should be based on the individual dog's medical
+history, examination, laboratory results when appropriate, and other
+relevant clinical information.
+
+For example, two dogs of the same breed may have completely different
+dietary requirements or medical conditions.
+
+Breed information should therefore be considered general background
+information rather than a diagnosis or individualized treatment plan.
